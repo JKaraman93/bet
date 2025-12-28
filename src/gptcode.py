@@ -87,9 +87,6 @@ def assign_lifecycle(df_players):
             """)
         )
     )
-
-
-
 # src/ingestion/generate_sessions.py
 
 from pyspark.sql import functions as F
