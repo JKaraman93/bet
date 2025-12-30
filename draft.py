@@ -9,7 +9,7 @@ from src.ingestion.player_lifecycle import assign_lifecycle
 from src.ingestion.generate_sessions import generate_gameplay_sessions
 
 config_ = config.DataGenConfig()
-os.environ["SPARK_LOCAL_IP"] = "192.168.182.129"  # replace with your VM IP if needed
+#os.environ["SPARK_LOCAL_IP"] = "192.168.182.129"  # replace with your VM IP if needed
 
 # Set logging level to reduce console warnings
 spark = SparkSession.builder.appName('app_name').getOrCreate()
