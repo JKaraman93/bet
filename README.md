@@ -2,8 +2,6 @@
 
 ## Overview
 
-This repository contains a **one‑month, end‑to‑end Machine Learning mini project** designed to mirror the responsibilities and technical expectations of a **Machine Learning Engineer** role in a data‑driven gaming environment (e.g. Novibet).
-
 The project demonstrates the full ML lifecycle:
 
 * Data generation and analysis at scale
@@ -189,18 +187,4 @@ The project is structured to support:
 * Deterministic randomness for reproducibility
 * Databricks‑friendly architecture
 
----
-
-## Limitations & Future Work
-
-* Replace synthetic data with real event streams
-* Add real‑time inference pipeline
-* Introduce deep learning and sequence models
-* Extend to recommendation systems
-* Integrate LLM‑based player segmentation
-
----
-
-## Author
-
-Designed and implemented as a **portfolio‑grade Machine Learning Engineering project**, aligned with industry standards for large‑scale data and ML systems.
+--
